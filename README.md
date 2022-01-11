@@ -14,4 +14,4 @@ require deployed ERC20 contract address and declare address as following in ERC7
 ``` 
 IERC20 token = IERC20(0x7538F05C6af698109f0a064c041C20Cf2e6B1E2D); 
 ```
-
+as 0x7538F05C6af698109f0a064c041C20Cf2e6B1E2D is ERC20 contract address.
